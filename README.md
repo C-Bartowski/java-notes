@@ -86,6 +86,7 @@ Le contrôleur
 
 Il permet de faire le lien entre la vue et le modèle lorsqu'une action utilisateur est intervenue sur la vue et a rentré des données.
 
+
 ##Factory
 
 Description du pattern Factory
