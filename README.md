@@ -69,6 +69,23 @@ Description d'observer
 
 Description du pattern MVC
 
+Le principe du pattern MVC est de découper vos codes en trois parties : Modèle, Vue et Contrôleur.
+
+La vue
+
+Ce que l'on nomme « la vue » est en fait une Interface Homme Machine (IHM): c'est l'interaction entre le programme et l'utilisateur.
+
+- une application graphique Swing, AWT, SWT pour Java
+- L'interface console avec l'affichage
+
+Le modèle
+
+C'est la que l'on effectue les actions principales du programmes et que l'on interargit avec la base de donnée.
+
+Le contrôleur
+
+Il permet de faire le lien entre la vue et le modèle lorsqu'une action utilisateur est intervenue sur la vue et a rentré des données.
+
 ##Factory
 
 Description du pattern Factory
